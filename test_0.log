@@ -1,0 +1,28 @@
+2025-12-14 12:34:56 INFO Starting process
+2025-12-14 12:35:00 ERROR Failed to connect to 192.168.1.1
+2025-12-14 12:36:00 DEBUG Connection established to 10.0.0.2
+Invalid log entry without timestamp or IP
+2025-12-14 12:37:01 INFO Processing data
+Connection reset first at 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+No timestamp here
+2025-12-14 12:38:10 DEBUG Data processing complete
+2025-12-14 12:39:00 ERROR Failed to connect to 192.168.2.2
+Another log entry with no timestamp or IP
+2025-12-14 12:40:00 INFO Sending data
+2025-12-14 12:41:30 DEBUG Data sent successfully to 10.1.1.1
+Connection reset last at 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+No timestamp or IP address found in this line
+2025-12-14 12:42:15 INFO Finished processing task
+2025-12-14 12:43:00 ERROR Timeout error at 192.168.100.100
+2025-12-14 12:44:00 DEBUG Attempting reconnection to 10.0.0.1
+2025-12-14 12:45:10 INFO Reconnection successful
+2025-12-14 12:46:00 ERROR IPv6 error at 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+2025-12-14 12:47:00 DEBUG IPv4 address 192.168.3.4 detected
+2025-12-14 12:48:20 INFO Restarting system
+2025-12-14 12:49:00 DEBUG Log file closed
+2025-12-14 12:50:00 ERROR Critical error occurred at 10.1.2.3
+2025-12-14 12:51:00 DEBUG Shutting down
+2025-12-14 12:52:15 INFO System shutdown complete
+2025-12-14 12:53:00 ERROR Connection failed to 192.168.4.4
+2025-12-14 12:54:00 INFO System operational
+2025-12-14 12:55:00 DEBUG System health check passed
