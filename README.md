@@ -29,7 +29,11 @@ python ./util.py --ipv6 test_0.log
 5)print lines with timestamps addresses:
 python ./util.py -t test_0.log
 
+5)print lines with timestamps and ipv4 addresses:
+python util.py --timestamps --ipv4 test_0.log
 
+5)print lines with timestamps and ipv6 addresses:
+python util.py --timestamps --ipv6 test_0.log
 
 Testing
 
